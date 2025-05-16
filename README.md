@@ -36,20 +36,5 @@ To build a regression model that accurately predicts the `index_price` using two
 - **Dependent Variable**: `index_price`
 - **Model Used**: Multiple Linear Regression
 
-## Evaluation
-
-- Evaluation metrics used: *Add your metrics here (e.g., R² score, MSE)*
-
-## Results
-
-- *Include a summary of your model's performance (e.g., "Model achieved an R² score of 0.85 indicating a good fit.")*
-
-## Future Work
-
-- Experiment with additional economic features
-- Try advanced regression techniques (e.g., Ridge, Lasso, or Polynomial Regression)
-- Deploy the model using Flask or Streamlit for user interaction
-
-
 
 
